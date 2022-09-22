@@ -1,0 +1,90 @@
+.body{
+    background-color: #f0f0f0;
+}
+.main{
+    text-align: center;
+    background-color: #f0f0f0;
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 100%;
+}
+.logo{
+    width: 350px;
+    border-radius: 100%;
+}
+.fig {
+    margin-top: 20px ;
+    text-align: center; /* Выравнивание по центру */ 
+}
+.buttonsBlock{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding: 15 px;
+    padding-right: 5px;
+    float: center;
+
+}
+.button {
+    border: none;
+    border-radius: 5px;
+    padding: 8px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 15px 7px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    color: #000000;
+}
+.button:hover {
+    color: e5e5e5;
+}
+
+.hello {
+    background-color: #f8f8f8;
+    font-size: 20px;
+    width: 56vw;
+    margin: 2rem auto;
+    padding: 1rem 5rem;
+    max-width: 40rem;
+    border-radius: 5px;
+    color: #000000;
+    margin-bottom: 8rem;
+}
+.h{
+    font-size: 35px;
+    color: #000000;
+}
+.about{
+    font-size: 20px;
+    color: #515151;
+    text-align: left;
+}
+.blogHeader{
+    float: left
+}
+.blogDate{
+    font-size: 18px;
+    float: right;
+    color: #605959;
+}
+a{
+    text-decoration:none;
+    color: #000000;
+}
+.desc{
+    color: #515151;
+}
+.blogDescription{
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 20px;
+    font-size: 14px;
+    padding-right: 30px;
+}
+.blog{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
